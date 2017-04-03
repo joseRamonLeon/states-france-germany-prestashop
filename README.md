@@ -1,12 +1,13 @@
 # states-france-germany-prestashop
-States of France and Germany for Prestashop 1.6
+<h2>States of France and Germany for Prestashop 1.6</h2>
 
-Prestashop Localizations Package of France and Germany don´t contain States.
+</p>Prestashop Localizations Package of France and Germany don´t contain States.</p>
 
-So here you have a <strong>CSV</strong> with those states.
+<p>So here you have a <strong>CSV</strong> with those states.</p>
 
-Source information:
-</br>
+<p>Source information:</p>
+
+</br></br>
 https://www.aggdata.com/free/germany-postal-codes </br>
 https://www.aggdata.com/free/france-postal-codes</br>
 </br></br>
