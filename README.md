@@ -3,11 +3,10 @@
 
 </p>Prestashop Localizations Package of France and Germany don´t contain States.</p>
 
-<p>So here you have a <strong>CSV</strong> with those states.</p>
+<p>So <a href="https://github.com/joseRamonLeon/states-france-germany-prestashop/tree/master/csv/zoneEuropeFranceGermanyPrestashop"><strong>Here</strong></a> you have a <strong>CSV</strong> with those states.</p>
 
 <p>Source information:</p>
 
-</br></br>
 https://www.aggdata.com/free/germany-postal-codes </br>
 https://www.aggdata.com/free/france-postal-codes</br>
 </br></br>
