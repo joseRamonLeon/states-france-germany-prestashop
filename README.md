@@ -7,12 +7,12 @@
 
 <p><h3>How to Import these States?</h3></p>
 
-<p>1 You have to manager your Prestashop BBDD with PhpMyAdmin</p>
-<p>2 Go to the Table "prestashop_state" and tag: Import and Let´s Import the File like the next Image.</p>
+<p>1 You have to manager your <strong>Prestashop BBDD</strong> with <strong>PhpMyAdmin</strong></p>
+<p>2 Go to the Table "<strong>prestashop_state" and tag: <strong>Import</strong> and Let´s Import! the File like the next Image.</p>
 </br>
 <img src="images/import-csv-data.jpg" alt="Import data.csv"/>
 </br>
-<p>3 Now go to the BackOffice of Your Prestashop Shop and let´s see if the new states appear</p>
+<p>3 Now go to the <strong>BackOffice</strong> of Your <strong>Prestashop Shop</strong> and let´s see if the new states appear</p>
 
 <p>Source information:</p>
 
