@@ -8,7 +8,7 @@
 <p><h3>How to Import these States?</h3></p>
 
 <p>1 You have to manager your <strong>Prestashop BBDD</strong> with <strong>PhpMyAdmin</strong></p>
-<p>2 Go to the Table "<strong>prestashop_state" and tag: <strong>Import</strong> and Let´s Import! the File like the next Image.</p>
+<p>2 Go to the Table "<strong>prestashop_state</strong>" and tag: <strong>Import</strong> and Let´s Import! the File like the next Image.</p>
 </br>
 <img src="images/import-csv-data.jpg" alt="Import data.csv"/>
 </br>
