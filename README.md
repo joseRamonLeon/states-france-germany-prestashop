@@ -1,7 +1,7 @@
 # states-france-germany-prestashop
 States of France and Germany for Prestashop 1.6
 
-Prestashop Localizations Package of Frande and Germany don´t contain States.
+Prestashop Localizations Package of France and Germany don´t contain States.
 
 So here you have a CSV with those states.
 
